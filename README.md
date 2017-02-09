@@ -20,4 +20,6 @@ https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/
 SwimGoldfishSwim from Michael Duschek
 https://github.com/AlfredDoppler/HTLGrieskirchenShowcase2016-17/blob/master/SwimGoldfishSwim/index.html
 
+Leauge of Legends ... Legends from Martin Reisinger
+https://github.com/AlfredDoppler/HTLGrieskirchenShowcase2016-17/blob/master/LoLLegends/index.html
 
