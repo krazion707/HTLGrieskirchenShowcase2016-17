@@ -7,7 +7,7 @@
         "status": -1
     },
     {
-        "title": "SwimgoldfishSwim",
+        "title": "SwimgoldfishSwim - checked FF",
         "folder": "SwimGoldfishSwim",
         "author": "Michael Duschek",
         "year": "2016_WS",
@@ -56,11 +56,11 @@
         "status": 0
     },
     {
-        "title": "Random Fighin Game (in progress)",
+        "title": "Random Fighin Game (in progress) - checked FF",
         "folder": "Fighter_Game_Web_GL",
         "author": "?",
         "year": "2016_WS",
-        "status": 1
+        "status": -1
     },
     {
         "title": "Undead Arcade - checked FF",
@@ -91,12 +91,19 @@
         "status": 0
     },
     {
-        "title": "Arkanoid Game",
+        "title": "Arkanoid Game - checked FF,Chrome & Edge incorrect Header Exception",
         "folder": "2DGameBuild",
         "author": "hakobian",
         "year": "2016_WS",
-        "status": 1
+        "status": -1
     },
+    {
+      "title": "Arkanoid Game Erweiterung - checked FF,Chrome & Edge incorrect Header Exception",",
+      "folder": "2DGameBuild",
+      "author": "Zareh Hakobian",
+      "year": "2017_SS",
+      "status": -1
+    },    
     {
         "title": "I schias auf deppade Kreise - checked FF",
         "folder": "I_schias_auf_deppade_Kreise",
@@ -105,11 +112,11 @@
         "status": 1
     },
     {
-        "title": "Batte Worms",
+        "title": "Batte Worms - checked FF",
         "folder": "Build_lhettmann",
         "author": "?",
         "year": "2016_WS",
-        "status": 1
+        "status": 0
     },
     {
         "title": "Snake - checked FF",
@@ -127,11 +134,11 @@
         "status": 1
     },
     {
-        "title": "Mad Jacks",
+        "title": "Mad Jacks - checked FF,Chrome & Edge incorrect Header Exception",
         "folder": "2DGameBuild",
         "author": "Florian Redinger, Florian Peter",
         "year": "2016_WS",
-        "status": 1
+        "status": -1
     },
     {
         "title": "Master Cart Multiplayer Web - checked FF",
@@ -153,45 +160,62 @@
     "author": "David Märzendorfer",
     "year": "2017_SS",
     "status": 0
-  },
-    
+  },    
   {  
     "title": "Robo Rover - checked FF",
     "folder": "RoboRover",
     "author": "Michael Duschek",
     "year": "2017_SS",
     "status": "1"
-  },
-    
+  },    
   {  
     "title": "RandomZombieGame - checked FF",
     "folder": "RandomZombieGame",
     "author": "Michael Kreuzmayr",
     "year": "2017_SS",
     "status": "-1"
-
-  },
-    
+  },    
   {  
-    "title": "Save Se Horse",
+    "title": "Save Se Horse - checked FF,Chrome & Edge incorrect Header Exception",
     "folder": "SaveSeHorse",
     "author": "Nico Prechtl",
     "year": "2017_SS",
-    "status": "0"
-  },    
+    "status": "-1"
+  },
   {  
-    "title": "Mario Kart - checked FF, Chrome, Edge",
+    "title": "TapGame - checked FF",
+    "folder": "TapGame",
+    "author": "Ingrid Lehner",
+    "year": "2017_SS",
+    "status": "1"
+  },
+  {
+    "title": "Just Another RPG - checked FF,Chrome & Edge JSON error",
+    "folder": "WebGL_JustAnotherRPG",
+    "author": "Philip Frauscher",
+    "year": "2017_SS",
+    "status": -1
+  },  
+  {
+    "title": "Game of Live - checked FF",
+    "folder": "GameOfLive",
+    "author": "Sebastian Mandl",
+    "year": "2017_SS",
+    "status": 0
+   },
+  {  
+    "title": "Mario Kart - checked FF, Chrome, Edge Range error",
     "folder": "mario kart build",
     "author": "Andreas Stuhlberger",
     "year": "2017_SS",
     "status": "-1"
   },
   {  
-        "title": "Definatly Not Mario Kart 2",
+        "title": "Definatly Not Mario Kart 2 - checked FF,Chrome & Edge incorrect Header Exception",
         "folder": "Game",
         "author": "David Arminger",
         "year": "2017_SS",
-        "status": "1"
+        "status": "-1"
   },
   {
       "title": "Flappy Bird - checked FF",
@@ -199,12 +223,5 @@
       "author": "Flavius Stoianov",
       "year": "2017_SS",
       "status": 0
-  } ,
-     {
-      "title": "Arkanoid Game Erweiterung",
-      "folder": "2DGameBuild",
-      "author": "Zareh Hakobian",
-      "year": "2017_SS",
-      "status": 1
-  } 
+  }
 ]
