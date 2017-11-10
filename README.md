@@ -3,14 +3,18 @@
 
 ### [**List of projects**](https://AlfredDoppler.github.io/HTLGrieskirchenShowcase2016-17/)
 
-(Maybe Development build with WebGL is a problem)
-
 The projects in this repository are for demonstration purposes only. 
 All copyrights and trademarks belong to their rightful owner.
 If there is any problem with any demo just leave a short message.
 
+Many thanks to my student Elias Lexl for the creation of this site.
+Additional thanks go to Rene Buchmayr and Alexander Melem for providing the
+first solutions of how to run the GIT-repository Web GL games directly in the browser.
+
 @students:
 After uploading your project to the `projects-folder` update the `projects.json`.
+(Maybe uploading a Development build with WebGL is a problem)
+
 
 ## `projects.json` properties
 ```
